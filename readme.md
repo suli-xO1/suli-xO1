@@ -32,8 +32,3 @@
 
 # 🔭 Projects & Highlights
 
-- **Amazon Clone** — https://github.com/SulimAnxO1/AmazonClone-1O1  
-  _Amazon Home Page Clone Using only HTML & CSS_
-
-- **Currency Converter** — https://github.com/SulimAnxO1/Currency-Converter  
-  _Currency Converter made using HTML CSS JavaScript — needs some improvements_
