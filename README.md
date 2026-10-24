@@ -20,14 +20,4 @@
 
 ---
 
-# 📊 GitHub Metrics
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=suli-xO1&theme=tokyonight" alt="streak" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=suli-xO1&show_icons=true&theme=tokyonight&hide_rank=true" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suli-xO1&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 # 🔭 Projects & Highlights
