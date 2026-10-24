@@ -1,6 +1,6 @@
 # Hi!👋 I'm Sulaiman Sufian
 
-💻 Socials
+# 💻 Socials
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suli-xo1/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
